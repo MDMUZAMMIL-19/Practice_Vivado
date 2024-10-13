@@ -7,3 +7,5 @@ set_property -dict { PACKAGE_PIN A2 IOSTANDARD LVCMOS33} [get_ports {LED}];
 
 # DIP Switch
 set_property -dict { PACKAGE_PIN R12 IOSTANDARD LVCMOS33} [get_ports {DIP}];
+
+In Vivado this file is saved as .xdc file.
